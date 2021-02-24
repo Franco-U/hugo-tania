@@ -63,17 +63,17 @@ Use everyday for two weeks. After the second week, use 3X a week.
 + Shiny, healthy, and stronger nails in a few weeks use
 
 ### Features
-[x]3-grade shine
-[x]Anti-mold surface
-[x]Block lasts longer than store-bought ones
-[x]Easy-to-clean
-[x]Replaceable buffing pads
+- [x]3-grade shine
+- [x]Anti-mold surface
+- [x]Block lasts longer than store-bought ones
+- [x]Easy-to-clean
+- [x]Replaceable buffing pads
 
 ### Why buy from us?   
 
-[x]Hassle-free, quick customer support    
-[x]Sustainable and conscientiously made
-[x]Designed in the USA
+- [x]Hassle-free, quick customer support    
+- [x]Sustainable and conscientiously made
+- [x]Designed in the USA
 
 
 ### How to use    
@@ -105,16 +105,16 @@ Use everyday for two weeks. After the second week, use 3X a week.
 + Get quick and eye-catching beautiful nails in minutes.
 
 ### Features
-[x]180 Grit for natural nails & 120 for acrylic nails
-[x]Cleans easy and reusable for months
-[x]Fits in your bag or purse
-[x]Conveniently packed in 6, 10, or 20 pack variants
+- [x]180 Grit for natural nails & 120 for acrylic nails
+- [x]Cleans easy and reusable for months
+- [x]Fits in your bag or purse
+- [x]Conveniently packed in 6, 10, or 20 pack variants
 
 ### Why buy from us?
 
-[x]Hassle-free, quick customer support    
-[x]Sustainable and conscientiously made
-[x]Designed in the USA
+- [x]Hassle-free, quick customer support    
+- [x]Sustainable and conscientiously made
+- [x]Designed in the USA
 
 
 ### How to use    
@@ -134,7 +134,6 @@ Soak. Cut. File. Rinse. Ready to go!
 | Professional-grade material     | Flimsy, bends easily                       |
 | Cruelty-free, ethically-sourced | Millions of nail files end up in landfills |
 
-+++  
 
 # SKINCARE
 ## Japanese Hot Spring Mineral Bath
@@ -142,16 +141,16 @@ Soak. Cut. File. Rinse. Ready to go!
 + Come in exhausted. Come out refreshed.
 
 ### Features
-[x]180 Grit for natural nails & 120 for acrylic nails
-[x]Cleans easy and reusable for months
-[x]Fits in your bag or purse
+- [x]180 Grit for natural nails & 120 for acrylic nails
+- [x]Cleans easy and reusable for months
+- [x]Fits in your bag or purse
 - [x]Conveniently packed in 6, 10, or 20 pack variants
 
 ### Why buy from us?    
 
-[x]Hassle-free returns, quick customer support    
-[x]Sustainable and conscientiously made
-[x]Designed in the USA
+- [x]Hassle-free returns, quick customer support    
+- [x]Sustainable and conscientiously made
+- [x]Designed in the USA
 
 ### How to use   
 Soak. Cut. File. Rinse. Ready to go!
