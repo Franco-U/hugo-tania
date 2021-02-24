@@ -79,7 +79,7 @@ Use everyday for two weeks. After the second week, use 3X a week.
 ### How to use    
 
 + FILE (Silver side) - Smooth out ridges, remove stains using this side.
-+ SMOOTH (Blue side) - Polish nail with this part to promote better blood circulation.
++ SMOOTH (Blue side) - Polish nail with this side for better blood circulation.
 + POLISH (White side) - Buff to a high gloss with this side.
 
 #### Recommended use:
@@ -93,11 +93,11 @@ Use everyday for two weeks. After the second week, use 3X a week.
 
 ### What makes our buffing block different?    
 
-| Onsen Professional Nail Buffer                  | Other brands                                       |
-| :---------------------------------------------- | :------------------------------------------------- |
-| Reusable block, outlasts store-bought brands | Disintegrates after a few uses                     |
-| Cleans and stores easily                        | Non-replaceable pads                               |
-| Cruelty-free, ethically-sourced                 | Disposable buffers end up in landfills |
+| Onsen Professional Nail Buffer          | Other brands                       |
+| :-------------------------------------- | :--------------------------------- |
+| Reusable, outlasts store-bought brands  | Disintegrates after a few uses     |
+| Cleans and stores easily                | Non-replaceable pads               |
+| Cruelty-free, ethically-sourced         | Disposable ones end up in landfills|
 
 ## Japanese Nail File
 ### USP
