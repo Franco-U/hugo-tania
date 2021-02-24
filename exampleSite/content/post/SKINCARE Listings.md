@@ -17,6 +17,8 @@ aliases = ["Amazon SEO"]
 +++
 # NAILCARE
 ## Cuticle Cream Serum
+![Source](https://images-na.ssl-images-amazon.com/images/I/41u-0qGngML._SL1000_.jpg)
+
 ### USP
 + Visibly shiny and healthy-looking nails on the second day.  
 + Strong and beautiful nails from the inside out.
@@ -58,6 +60,7 @@ Use everyday for two weeks. After the second week, use 3X a week.
 
 
 ## Japanese Nail Buffer
+![link_text](https://images-na.ssl-images-amazon.com/images/I/813PZxVV6zL._SL1500_.jpg)
 ### USP
 + Files, buffs to an ultra bright gloss, and encourages natural nail growth.
 + Shiny, healthy, and stronger nails in a few weeks use
@@ -100,6 +103,8 @@ Use everyday for two weeks. After the second week, use 3X a week.
 | Cruelty-free, ethically-sourced         | Disposable ones end up in landfills|
 
 ## Japanese Nail File
+![link_text](https://images-na.ssl-images-amazon.com/images/I/81od3wfodNL._SL1500_.jpg)
+
 ### USP
 + Consistent, rip-free file for smooth, shapely, and attractive nails.
 + Get quick and eye-catching beautiful nails in minutes.
@@ -137,6 +142,7 @@ Soak. Cut. File. Rinse. Ready to go!
 
 # SKINCARE
 ## Japanese Hot Spring Mineral Bath
+![link_text](https://images-na.ssl-images-amazon.com/images/I/71J9luW8EiL._AC_SL1500_.jpg)
 ### USP
 + Come in exhausted. Come out refreshed.
 
