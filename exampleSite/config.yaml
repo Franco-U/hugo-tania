@@ -1,13 +1,13 @@
 baseurl: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Tania"
+title: "Franco Yu"
 theme: "hugo-tania"
 
 params:
-  titleEmoji: '😎'
+  titleEmoji: '✏️'
   socialOptions:
-    github: 
-    twitter: 
+    github:
+    twitter:
 
 menu:
   header:
